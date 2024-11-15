@@ -1,0 +1,13 @@
+{
+  "name": "instagram-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "instagram.js",
+  "scripts": {
+    "start": "node instagram.js"
+  },
+  "dependencies": {
+    "puppeteer": "^19.0.0"
+  }
+}
+
